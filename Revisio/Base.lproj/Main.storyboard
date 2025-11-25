@@ -8,10 +8,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--groups-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Revisio" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="groups" id="BYZ-38-t0r" customClass="GroupsHomeViewController" customModule="Revisio" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -24,10 +24,10 @@
             </objects>
             <point key="canvasLocation" x="1064.885496183206" y="130.98591549295776"/>
         </scene>
-        <!--View Controller-->
+        <!--group_documents-->
         <scene sceneID="eEk-GT-Dd4">
             <objects>
-                <viewController id="nfy-TB-GBX" sceneMemberID="viewController">
+                <viewController title="group_documents" id="nfy-TB-GBX" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="nVb-HY-xcB">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -39,10 +39,10 @@
             </objects>
             <point key="canvasLocation" x="716" y="849"/>
         </scene>
-        <!--View Controller-->
+        <!--group_leaderboard-->
         <scene sceneID="OAc-hj-NZX">
             <objects>
-                <viewController id="OJA-bf-6fg" sceneMemberID="viewController">
+                <viewController title="group_leaderboard" id="OJA-bf-6fg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="D6k-aZ-d7j">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -54,10 +54,10 @@
             </objects>
             <point key="canvasLocation" x="1608" y="853"/>
         </scene>
-        <!--View Controller-->
+        <!--group_chat-->
         <scene sceneID="mg4-BR-pXL">
             <objects>
-                <viewController id="2o6-mN-we6" sceneMemberID="viewController">
+                <viewController title="group_chat" id="2o6-mN-we6" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xvd-MA-IrH">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -69,10 +69,10 @@
             </objects>
             <point key="canvasLocation" x="2381" y="884"/>
         </scene>
-        <!--View Controller-->
+        <!--create_group-->
         <scene sceneID="5Uo-nN-3Tb">
             <objects>
-                <viewController id="xEh-KV-x13" sceneMemberID="viewController">
+                <viewController title="create_group" id="xEh-KV-x13" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="eZU-ax-nfs">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -84,10 +84,10 @@
             </objects>
             <point key="canvasLocation" x="731" y="-563"/>
         </scene>
-        <!--View Controller-->
+        <!--group_code-->
         <scene sceneID="z3C-vB-xUU">
             <objects>
-                <viewController id="fcf-DA-few" sceneMemberID="viewController">
+                <viewController title="group_code" id="fcf-DA-few" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ffr-np-w2k">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -99,10 +99,10 @@
             </objects>
             <point key="canvasLocation" x="1489" y="-553"/>
         </scene>
-        <!--View Controller-->
+        <!--join_group-->
         <scene sceneID="Qug-Ew-8ly">
             <objects>
-                <viewController id="x6c-jj-dIU" sceneMemberID="viewController">
+                <viewController title="join_group" id="x6c-jj-dIU" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="h37-xL-zrA">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -114,10 +114,10 @@
             </objects>
             <point key="canvasLocation" x="2210" y="-556"/>
         </scene>
-        <!--View Controller-->
+        <!--group_info-->
         <scene sceneID="MGZ-8h-dmZ">
             <objects>
-                <viewController id="Tna-6m-Dxp" sceneMemberID="viewController">
+                <viewController title="group_info" id="Tna-6m-Dxp" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cxe-FA-Aqs">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
